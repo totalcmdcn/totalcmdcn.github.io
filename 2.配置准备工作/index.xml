@@ -22,17 +22,20 @@
       <pubDate>Sun, 28 Feb 2021 14:35:02 +0800</pubDate>
       
       <guid>https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/2.-%E9%85%8D%E7%BD%AE%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</guid>
-      <description>均来自于totalcmd.net，支持Google搜索
-首页上靠前的插件下载
-totalcmd.net 中文帮助文档 配置工具 复制mscomctl.ocx到C:\Windows\SysWOW64，并以管理员身份运行命令行：regsvr32 mscomctl.ocx
-Ultra TC Editors 6.42 Final
-TC Plugins Manager 2.2.8
+      <description>首页上靠前的插件下载
+totalcmd.net 来自于totalcmd.net，因其仅支持Google搜索，故整理了一份常用插件的地址页面。
+其中以加粗显示的工具/插件为推荐安装的
+中文帮助文档 配置工具 Ultra TC Editors 6.42 Final
+ 本工具由VB编写，面Win 10系统上默认不包含其需要的VB组件，可百度下载mscomctl.ocx并复制到C:\Windows\SysWOW64，再以管理员身份运行命令行：regsvr32 mscomctl.ocx
+ TC Plugins Manager 2.2.8
 Impomezia TC Color Presets 0.1.1
-增强工具 Autorun 2.1.1：伪内容插件
-TCFS2 2.4.3.584：Total Commander Full Screen
+增强工具 Autorun 2.1.1
+ 伪内容插件，用以在Total Commander启动时自动运行某些命令或软件
+ TCFS2 2.4.3.584：Total Commander Full Screen
 TCFS2Tools 1.4.4.216：主要用于和上面的TCFS2搭配使用，临时隐藏主菜单。作者还有个著名的Windows PowerPro 5.3.15
 F4Menu 0.59
-TCIMG 28.3：俄罗斯作者主页还有些其他TC好工具
+TCIMG 28.3
+作者的主页，还有些其他TC好工具
 TCBL 1.04：
 TCLive
 Nested Button Bar Creator 2.00
