@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Total Commander配置之路</title>
-    <link>https://totalcmd.cn/</link>
-    <description>Recent content on Total Commander配置之路</description>
+    <title>2. 配置准备工作 on Total Commander配置之路</title>
+    <link>https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 2. 配置准备工作 on Total Commander配置之路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 07 Mar 2021 15:57:31 +0800</lastBuildDate><atom:link href="https://totalcmd.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 14:23:02 +0800</lastBuildDate><atom:link href="https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. 文件夹结构</title>
       <link>https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/1.-%E6%96%87%E4%BB%B6%E5%A4%B9%E7%BB%93%E6%9E%84/</link>
@@ -14,18 +14,6 @@
       
       <guid>https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/1.-%E6%96%87%E4%BB%B6%E5%A4%B9%E7%BB%93%E6%9E%84/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>1. 版本选择</title>
-      <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/1.-%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A9/</link>
-      <pubDate>Sat, 27 Feb 2021 06:17:42 +0800</pubDate>
-      
-      <guid>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/1.-%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A9/</guid>
-      <description>TC的版本 我的选择 Total Commander官网下载页，选择64-bit+32-bit combined download
-Total Commander 9.51
-选择原因 Total Commander历史悠久，有些插件只提供了32位支持，也为了方便在32位系统下使用TC。
-不同版本区别 </description>
     </item>
     
     <item>
@@ -55,31 +43,12 @@ AHK 菜单栏 图标包dll 文本编辑器 EverEdit</description>
     </item>
     
     <item>
-      <title>2. 便携式安装</title>
-      <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/2.-%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%AE%89%E8%A3%85/</link>
-      <pubDate>Sat, 27 Feb 2021 06:17:56 +0800</pubDate>
-      
-      <guid>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/2.-%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%AE%89%E8%A3%85/</guid>
-      <description>安装 更新 </description>
-    </item>
-    
-    <item>
       <title>3. 插件</title>
       <link>https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/3.-%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Sun, 28 Feb 2021 14:23:40 +0800</pubDate>
       
       <guid>https://totalcmd.cn/2.%E9%85%8D%E7%BD%AE%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/3.-%E6%8F%92%E4%BB%B6/</guid>
       <description>压缩程序插件wcx 内容插件wdx 文件系统插件wfx 查看器插件wlx    插件名称 当前版本 类型(CDFL) 32bits 64bits 中文 说明文档 依赖项 用途 已知问题 作者     ICLView 27.7.2020            Office2007wlx 64 0.0.6.5            SWFView 1.4.1      Adobe Flash Player      IniEd 1.2            Imagine 1.</description>
-    </item>
-    
-    <item>
-      <title>3. 购买or辅助</title>
-      <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/3.-%E8%B4%AD%E4%B9%B0or%E8%BE%85%E5%8A%A9/</link>
-      <pubDate>Sat, 27 Feb 2021 06:18:12 +0800</pubDate>
-      
-      <guid>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/3.-%E8%B4%AD%E4%B9%B0or%E8%BE%85%E5%8A%A9/</guid>
-      <description>正版购买 个人购买 团队购买 不注册使用 人工点击 一天点一次
-AHK脚本辅助 如鲠在喉</description>
     </item>
     
     <item>

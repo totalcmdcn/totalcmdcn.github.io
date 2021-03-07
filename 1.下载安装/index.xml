@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. 下载安装 on Total Commander配置之路</title>
+    <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/</link>
+    <description>Recent content in 1. 下载安装 on Total Commander配置之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 27 Feb 2021 06:11:57 +0800</lastBuildDate><atom:link href="https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. 版本选择</title>
+      <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/1.-%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A9/</link>
+      <pubDate>Sat, 27 Feb 2021 06:17:42 +0800</pubDate>
+      
+      <guid>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/1.-%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A9/</guid>
+      <description>TC的版本 我的选择 Total Commander官网下载页，选择64-bit+32-bit combined download
+Total Commander 9.51
+选择原因 Total Commander历史悠久，有些插件只提供了32位支持，也为了方便在32位系统下使用TC。
+不同版本区别 </description>
+    </item>
+    
+    <item>
+      <title>2. 便携式安装</title>
+      <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/2.-%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Sat, 27 Feb 2021 06:17:56 +0800</pubDate>
+      
+      <guid>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/2.-%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%AE%89%E8%A3%85/</guid>
+      <description>安装 更新 </description>
+    </item>
+    
+    <item>
+      <title>3. 购买or辅助</title>
+      <link>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/3.-%E8%B4%AD%E4%B9%B0or%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Sat, 27 Feb 2021 06:18:12 +0800</pubDate>
+      
+      <guid>https://totalcmd.cn/1.%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/3.-%E8%B4%AD%E4%B9%B0or%E8%BE%85%E5%8A%A9/</guid>
+      <description>正版购买 个人购买 团队购买 不注册使用 人工点击 一天点一次
+AHK脚本辅助 如鲠在喉</description>
+    </item>
+    
+  </channel>
+</rss>
